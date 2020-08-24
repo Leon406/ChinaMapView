@@ -1,0 +1,3 @@
+include ':map'
+include ':app', ':chinamapviewlibrary'
+rootProject.name='ChinaMapView'
